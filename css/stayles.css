@@ -1,0 +1,39 @@
+body {
+  background-color: #c3ff99;
+  margin: 0;
+}
+
+.table1 {
+  width: 360px;
+  height: 62px;
+  background-color: #ffffff;
+  margin: auto;
+}
+p {
+  display: inline-block;
+  margin: 0;
+  width: 74px;
+  height: 15px;
+  font-size: 10px;
+  text-align: center;
+}
+.p1 {
+  position: relative;
+  color: #ffffff;
+  left: 20px;
+  top: -150px;
+  font-size: 20px;
+}
+.p2 {
+  color: #ffffff;
+  position: relative;
+  left: 20px;
+  top: -150px;
+  font-size: 20px;
+}
+.GLAV {
+  background-color: #e5e5e5;
+  margin: auto;
+  width: 360px;
+  height: 1930px;
+}
